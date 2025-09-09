@@ -1,0 +1,160 @@
+0	ID 2 on 5	457
+1	ID 2 on 10	522
+2	ID 2 on 15	572
+3	ID 2 on 20	619
+4	ID 2 on 25	632
+5	ID 2 on 30	683
+6	ID 4 on 5	466
+7	ID 4 on 10	497
+8	ID 4 on 15	581
+9	ID 4 on 20	679
+10	ID 4 on 25	731
+11	ID 4 on 30	763
+12	ID 6 on 5	354
+13	ID 6 on 10	495
+14	ID 6 on 15	375
+15	ID 6 on 20	350
+16	ID 6 on 25	354
+17	ID 6 on 30	486
+18	ID 2 at 5	515
+19	ID 2 at 10	543
+20	ID 2 at 15	635
+21	ID 2 at 20	671
+22	ID 2 at 25	712
+23	ID 2 at 30	753
+24	ID 4 at 5	380
+25	ID 4 at 10	455
+26	ID 4 at 15	584
+27	ID 4 at 20	656
+28	ID 4 at 25	725
+29	ID 4 at 30	769
+30	ID 6 at 5	488
+31	ID 6 at 10	462
+32	ID 6 at 15	403
+33	ID 6 at 20	397
+34	ID 6 at 25	419
+35	ID 6 at 30	490
+36	ID 2 on 5/93	357
+37	ID 2 on 10/93	438
+38	ID 2 on 15/93	489
+39	ID 2 on 20/93	543
+40	ID 2 on 25/93	566
+41	ID 2 on 30/93	612
+42	ID 4 on 5/93	466
+43	ID 4 on 10/93	579
+44	ID 4 on 15/93	550
+45	ID 4 on 20/93	604
+46	ID 4 on 25/93	630
+47	ID 4 on 30/93	673
+48	ID 6 on 5/93	366
+49	ID 6 on 10/93	512
+50	ID 6 on 15/93	417
+51	ID 6 on 20/93	430
+52	ID 6 on 25/93	462
+53	ID 6 on 30/93	503
+54	ID 2 at 5/93	452
+55	ID 2 at 10/93	496
+56	ID 2 at 15/93	543
+57	ID 2 at 20/93	574
+58	ID 2 at 25/93	630
+59	ID 2 at 30/93	687
+60	ID 4 at 5/93	442
+61	ID 4 at 10/93	515
+62	ID 4 at 15/93	577
+63	ID 4 at 20/93	603
+64	ID 4 at 25/93	653
+65	ID 4 at 30/93	693
+66	ID 6 at 5/93	372
+67	ID 6 at 10/93	370
+68	ID 6 at 15/93	373
+69	ID 6 at 20/93	420
+70	ID 6 at 25/93	477
+71	ID 6 at 30/93	581
+72	ID1x1	202
+73	ID1x2	357
+74	ID1x3	500
+75	ID1x4	671
+76	ID1x5	814
+77	ID1y1	-90
+78	ID1y2	-45
+79	ID1y3	0
+80	ID1y4	45
+81	ID1y5	90
+82	ID2x1	192
+83	ID2x2	
+84	ID2x3	
+85	ID2x4	
+86	ID2x5	818
+87	ID2y1	-90
+88	ID2y2	
+89	ID2y3	
+90	ID2y4	
+91	ID2y5	90
+92	ID4x1	205
+93	ID4x2	
+94	ID4x3	
+95	ID4x4	
+96	ID4x5	807
+97	ID4y1	-90
+98	ID4y2	
+99	ID4y3	
+100	ID4y4	
+101	ID4y5	90
+102	ID6x1	292
+103	ID6x2	
+104	ID6x3	
+105	ID6x4	
+106	ID6x5	1016
+107	ID6y1	-101.25
+108	ID6y2	
+109	ID6y3	
+110	ID6y4	
+111	ID6y5	112.5
+112	ID7x1	216
+113	ID7x2	
+114	ID7x3	
+115	ID7x4	
+116	ID7x5	811
+117	ID7y1	-90
+118	ID7y2	0
+119	ID7y3	0
+120	ID7y4	0
+121	ID7y5	90
+122	ID8x1	0
+123	ID8x2	
+124	ID8x3	
+125	ID8x4	
+126	ID8y5	512
+127	ID8y1	1.3
+128	ID8y2	0
+129	ID8y3	0
+130	ID8y4	0
+131	ID8y5	31.65
+132	def1	512
+133	def2	283
+134	def3	736
+135	def4	338
+136	def5	683
+137	def6	480
+138	def7	512
+139	def8	512
+140	d1 = Shoulder length (joint-to-joint)	149.2
+141	f1 = Shoulder height (joint-to-joint)	36.4
+142	f0 = Arm pedestal height (table to joint)	190.05
+143	c1 = Shoulder joints distance	149.25
+144	d2 = Elbow length (joint-to-joint)	145.7
+145	d3 = Wrist length (joint-to-claw)	114.75
+146	d4 = Claw length	36
+147	f4 = Claw height	28.1
+148	plaseholder	0
+149	plaseholder	0
+150	plaseholder	0
+151	plaseholder	0
+152	plaseholder	0
+153	plaseholder	0
+154	plaseholder	0
+155	plaseholder	0
+156	plaseholder	0
+157	plaseholder	0
+158	plaseholder	0
+159	plaseholder	0
